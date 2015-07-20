@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\hg_workspace\rhodecode\CodingTest\nUnit\NUnitTests.nunit</TopNode>
+  <SelectedNode>[0-1017]UnitTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\hg_workspace\rhodecode\CodingTest\nUnit\NUnitTests.nunit" Expanded="true" />
+    <Node UniqueName="[0-1016]C:\hg_workspace\rhodecode\CodingTest\nUnit\..\CodingTest\UnitTests\bin\Debug\UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1017]UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1018]UnitTests.CardGame" Expanded="true" />
+    <Node UniqueName="[0-1001]UnitTests.CardGame.CardGameTests" Expanded="true" />
+    <Node UniqueName="[0-1019]UnitTests.CurrencyConverter" Expanded="true" />
+    <Node UniqueName="[0-1007]UnitTests.CurrencyConverter.CurrencyConverterTests" Expanded="true" />
+    <Node UniqueName="[0-1020]UnitTests.ReversingString" Expanded="true" />
+    <Node UniqueName="[0-1011]UnitTests.ReversingString.StringUtiltiesTests" Expanded="true" />
+    <Node UniqueName="[0-1012]UnitTests.ReversingString.StringUtiltiesTests.ReverseStringShouldReturnTheStringInTheReverseOrder" Expanded="true" />
+  </Nodes>
+</VisualState>
